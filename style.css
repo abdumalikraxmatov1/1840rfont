@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+background-color: aqua;
+border: 2px solid red;
+border-radius: 25px;
+}
+span{
+    color: red;
+}
+h2{
+    color: green;
+}
+.h2{
+    text-align: center;
+    background-color: yellow;
+}
+img{
+    width: 670px;
+    
+}
+div{
+    text-align: center;
+}
+.aaa{
+    color: green;
+}
+
+textarea{
+    width: 1400px;
+}
+button{
+    width: 350px;
+    height: 40px;
+    background-color: skyblue;
+    border: 1px solid white;
+}
+table,tr,td{
+    border: 1px solid rgb(21, 20, 20);
+    text-align: center;
+   border-collapse: collapse;
+width: 1400px;
+height: 20px;
+}
+.aaaa{
+    background-color: green;
+    width: 300px;
+    color: aliceblue;
+}.td0{
+    background-color: blue;
+    width: 900px;
+    color: aliceblue;
+}
+.red{
+    background-color: red;
+    color: aliceblue;
+    width: 300px;
+}
+.dark{
+    background-color: black;
+    width: 900px;
+    color: aliceblue;
+}
